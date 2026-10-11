@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**giannasr-hub/giannasr-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Sou nutricionista, especialista em Nutrição Oncológica e em Gastronomia e Segurança Alimentar, com atuação em gestão de serviços de nutrição clínica e hospitalar e docência em pós-graduação.
 
 Tenho interesse em conectar saúde, educação, gestão e tecnologia, explorando soluções que contribuam para a melhoria de processos, a organização de informações e o desenvolvimento profissional.
